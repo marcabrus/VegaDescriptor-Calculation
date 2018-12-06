@@ -1,5 +1,5 @@
 # VegaDescriptor-Calculation
-Knime wrapper for Calculation of Descriptord of VEGA models
+Knime wrapper for Calculation of Descriptors of VEGA models
 
 This workflow contains a metanode for the calculation of all available descriptors contained in VEGA.
 It takes a SMILES as input.
