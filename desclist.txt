@@ -1,0 +1,1938 @@
+ALogP	ALogP and AMR
+AMR	ALogP and AMR
+MLogP	MLogP Descriptor
+CHLogP	NC+NHET LogP
+LogP	Meylan LogP (Kowwin)
+U-000	Atom Centered Fragments
+C-001	Atom Centered Fragments
+C-002	Atom Centered Fragments
+C-003	Atom Centered Fragments
+C-004	Atom Centered Fragments
+C-005	Atom Centered Fragments
+C-006	Atom Centered Fragments
+C-007	Atom Centered Fragments
+C-008	Atom Centered Fragments
+C-009	Atom Centered Fragments
+C-010	Atom Centered Fragments
+C-011	Atom Centered Fragments
+C-012	Atom Centered Fragments
+C-013	Atom Centered Fragments
+C-014	Atom Centered Fragments
+C-015	Atom Centered Fragments
+C-016	Atom Centered Fragments
+C-017	Atom Centered Fragments
+C-018	Atom Centered Fragments
+C-019	Atom Centered Fragments
+C-020	Atom Centered Fragments
+C-021	Atom Centered Fragments
+C-022	Atom Centered Fragments
+C-023	Atom Centered Fragments
+C-024	Atom Centered Fragments
+C-025	Atom Centered Fragments
+C-026	Atom Centered Fragments
+C-027	Atom Centered Fragments
+C-028	Atom Centered Fragments
+C-029	Atom Centered Fragments
+C-030	Atom Centered Fragments
+C-031	Atom Centered Fragments
+C-032	Atom Centered Fragments
+C-033	Atom Centered Fragments
+C-034	Atom Centered Fragments
+C-035	Atom Centered Fragments
+C-036	Atom Centered Fragments
+C-037	Atom Centered Fragments
+C-038	Atom Centered Fragments
+C-039	Atom Centered Fragments
+C-040	Atom Centered Fragments
+C-041	Atom Centered Fragments
+C-042	Atom Centered Fragments
+C-043	Atom Centered Fragments
+C-044	Atom Centered Fragments
+U-045	Atom Centered Fragments
+H-046	Atom Centered Fragments
+H-047	Atom Centered Fragments
+H-048	Atom Centered Fragments
+H-049	Atom Centered Fragments
+H-050	Atom Centered Fragments
+H-051	Atom Centered Fragments
+H-052	Atom Centered Fragments
+H-053	Atom Centered Fragments
+H-054	Atom Centered Fragments
+H-055	Atom Centered Fragments
+O-056	Atom Centered Fragments
+O-057	Atom Centered Fragments
+O-058	Atom Centered Fragments
+O-059	Atom Centered Fragments
+O-060	Atom Centered Fragments
+O-061	Atom Centered Fragments
+O-062	Atom Centered Fragments
+O-063	Atom Centered Fragments
+Se-064	Atom Centered Fragments
+Se-065	Atom Centered Fragments
+N-066	Atom Centered Fragments
+N-067	Atom Centered Fragments
+N-068	Atom Centered Fragments
+N-069	Atom Centered Fragments
+N-070	Atom Centered Fragments
+N-071	Atom Centered Fragments
+N-072	Atom Centered Fragments
+N-073	Atom Centered Fragments
+N-074	Atom Centered Fragments
+N-075	Atom Centered Fragments
+N-076	Atom Centered Fragments
+N-077	Atom Centered Fragments
+N-078	Atom Centered Fragments
+N-079	Atom Centered Fragments
+U-080	Atom Centered Fragments
+F-081	Atom Centered Fragments
+F-082	Atom Centered Fragments
+F-083	Atom Centered Fragments
+F-084	Atom Centered Fragments
+F-085	Atom Centered Fragments
+Cl-086	Atom Centered Fragments
+Cl-087	Atom Centered Fragments
+Cl-088	Atom Centered Fragments
+Cl-089	Atom Centered Fragments
+Cl-090	Atom Centered Fragments
+Br-091	Atom Centered Fragments
+Br-092	Atom Centered Fragments
+Br-093	Atom Centered Fragments
+Br-094	Atom Centered Fragments
+Br-095	Atom Centered Fragments
+I-096	Atom Centered Fragments
+I-097	Atom Centered Fragments
+I-098	Atom Centered Fragments
+I-099	Atom Centered Fragments
+I-100	Atom Centered Fragments
+F-101	Atom Centered Fragments
+Cl-102	Atom Centered Fragments
+Br-103	Atom Centered Fragments
+I-104	Atom Centered Fragments
+U-105	Atom Centered Fragments
+S-106	Atom Centered Fragments
+S-107	Atom Centered Fragments
+S-108	Atom Centered Fragments
+S-109	Atom Centered Fragments
+S-110	Atom Centered Fragments
+Si-111	Atom Centered Fragments
+B-112	Atom Centered Fragments
+U-113	Atom Centered Fragments
+U-114	Atom Centered Fragments
+P-115	Atom Centered Fragments
+P-116	Atom Centered Fragments
+P-117	Atom Centered Fragments
+P-118	Atom Centered Fragments
+P-119	Atom Centered Fragments
+P-120	Atom Centered Fragments
+ATS1m	AutoCorrelation Descriptors
+ATSC1m	AutoCorrelation Descriptors
+MATS1m	AutoCorrelation Descriptors
+GATS1m	AutoCorrelation Descriptors
+ATS2m	AutoCorrelation Descriptors
+ATSC2m	AutoCorrelation Descriptors
+MATS2m	AutoCorrelation Descriptors
+GATS2m	AutoCorrelation Descriptors
+ATS3m	AutoCorrelation Descriptors
+ATSC3m	AutoCorrelation Descriptors
+MATS3m	AutoCorrelation Descriptors
+GATS3m	AutoCorrelation Descriptors
+ATS4m	AutoCorrelation Descriptors
+ATSC4m	AutoCorrelation Descriptors
+MATS4m	AutoCorrelation Descriptors
+GATS4m	AutoCorrelation Descriptors
+ATS5m	AutoCorrelation Descriptors
+ATSC5m	AutoCorrelation Descriptors
+MATS5m	AutoCorrelation Descriptors
+GATS5m	AutoCorrelation Descriptors
+ATS6m	AutoCorrelation Descriptors
+ATSC6m	AutoCorrelation Descriptors
+MATS6m	AutoCorrelation Descriptors
+GATS6m	AutoCorrelation Descriptors
+ATS7m	AutoCorrelation Descriptors
+ATSC7m	AutoCorrelation Descriptors
+MATS7m	AutoCorrelation Descriptors
+GATS7m	AutoCorrelation Descriptors
+ATS8m	AutoCorrelation Descriptors
+ATSC8m	AutoCorrelation Descriptors
+MATS8m	AutoCorrelation Descriptors
+GATS8m	AutoCorrelation Descriptors
+ATS1p	AutoCorrelation Descriptors
+ATSC1p	AutoCorrelation Descriptors
+MATS1p	AutoCorrelation Descriptors
+GATS1p	AutoCorrelation Descriptors
+ATS2p	AutoCorrelation Descriptors
+ATSC2p	AutoCorrelation Descriptors
+MATS2p	AutoCorrelation Descriptors
+GATS2p	AutoCorrelation Descriptors
+ATS3p	AutoCorrelation Descriptors
+ATSC3p	AutoCorrelation Descriptors
+MATS3p	AutoCorrelation Descriptors
+GATS3p	AutoCorrelation Descriptors
+ATS4p	AutoCorrelation Descriptors
+ATSC4p	AutoCorrelation Descriptors
+MATS4p	AutoCorrelation Descriptors
+GATS4p	AutoCorrelation Descriptors
+ATS5p	AutoCorrelation Descriptors
+ATSC5p	AutoCorrelation Descriptors
+MATS5p	AutoCorrelation Descriptors
+GATS5p	AutoCorrelation Descriptors
+ATS6p	AutoCorrelation Descriptors
+ATSC6p	AutoCorrelation Descriptors
+MATS6p	AutoCorrelation Descriptors
+GATS6p	AutoCorrelation Descriptors
+ATS7p	AutoCorrelation Descriptors
+ATSC7p	AutoCorrelation Descriptors
+MATS7p	AutoCorrelation Descriptors
+GATS7p	AutoCorrelation Descriptors
+ATS8p	AutoCorrelation Descriptors
+ATSC8p	AutoCorrelation Descriptors
+MATS8p	AutoCorrelation Descriptors
+GATS8p	AutoCorrelation Descriptors
+ATS1e	AutoCorrelation Descriptors
+ATSC1e	AutoCorrelation Descriptors
+MATS1e	AutoCorrelation Descriptors
+GATS1e	AutoCorrelation Descriptors
+ATS2e	AutoCorrelation Descriptors
+ATSC2e	AutoCorrelation Descriptors
+MATS2e	AutoCorrelation Descriptors
+GATS2e	AutoCorrelation Descriptors
+ATS3e	AutoCorrelation Descriptors
+ATSC3e	AutoCorrelation Descriptors
+MATS3e	AutoCorrelation Descriptors
+GATS3e	AutoCorrelation Descriptors
+ATS4e	AutoCorrelation Descriptors
+ATSC4e	AutoCorrelation Descriptors
+MATS4e	AutoCorrelation Descriptors
+GATS4e	AutoCorrelation Descriptors
+ATS5e	AutoCorrelation Descriptors
+ATSC5e	AutoCorrelation Descriptors
+MATS5e	AutoCorrelation Descriptors
+GATS5e	AutoCorrelation Descriptors
+ATS6e	AutoCorrelation Descriptors
+ATSC6e	AutoCorrelation Descriptors
+MATS6e	AutoCorrelation Descriptors
+GATS6e	AutoCorrelation Descriptors
+ATS7e	AutoCorrelation Descriptors
+ATSC7e	AutoCorrelation Descriptors
+MATS7e	AutoCorrelation Descriptors
+GATS7e	AutoCorrelation Descriptors
+ATS8e	AutoCorrelation Descriptors
+ATSC8e	AutoCorrelation Descriptors
+MATS8e	AutoCorrelation Descriptors
+GATS8e	AutoCorrelation Descriptors
+ATS1v	AutoCorrelation Descriptors
+ATSC1v	AutoCorrelation Descriptors
+MATS1v	AutoCorrelation Descriptors
+GATS1v	AutoCorrelation Descriptors
+ATS2v	AutoCorrelation Descriptors
+ATSC2v	AutoCorrelation Descriptors
+MATS2v	AutoCorrelation Descriptors
+GATS2v	AutoCorrelation Descriptors
+ATS3v	AutoCorrelation Descriptors
+ATSC3v	AutoCorrelation Descriptors
+MATS3v	AutoCorrelation Descriptors
+GATS3v	AutoCorrelation Descriptors
+ATS4v	AutoCorrelation Descriptors
+ATSC4v	AutoCorrelation Descriptors
+MATS4v	AutoCorrelation Descriptors
+GATS4v	AutoCorrelation Descriptors
+ATS5v	AutoCorrelation Descriptors
+ATSC5v	AutoCorrelation Descriptors
+MATS5v	AutoCorrelation Descriptors
+GATS5v	AutoCorrelation Descriptors
+ATS6v	AutoCorrelation Descriptors
+ATSC6v	AutoCorrelation Descriptors
+MATS6v	AutoCorrelation Descriptors
+GATS6v	AutoCorrelation Descriptors
+ATS7v	AutoCorrelation Descriptors
+ATSC7v	AutoCorrelation Descriptors
+MATS7v	AutoCorrelation Descriptors
+GATS7v	AutoCorrelation Descriptors
+ATS8v	AutoCorrelation Descriptors
+ATSC8v	AutoCorrelation Descriptors
+MATS8v	AutoCorrelation Descriptors
+GATS8v	AutoCorrelation Descriptors
+ATS1s	AutoCorrelation Descriptors
+ATSC1s	AutoCorrelation Descriptors
+MATS1s	AutoCorrelation Descriptors
+GATS1s	AutoCorrelation Descriptors
+ATS2s	AutoCorrelation Descriptors
+ATSC2s	AutoCorrelation Descriptors
+MATS2s	AutoCorrelation Descriptors
+GATS2s	AutoCorrelation Descriptors
+ATS3s	AutoCorrelation Descriptors
+ATSC3s	AutoCorrelation Descriptors
+MATS3s	AutoCorrelation Descriptors
+GATS3s	AutoCorrelation Descriptors
+ATS4s	AutoCorrelation Descriptors
+ATSC4s	AutoCorrelation Descriptors
+MATS4s	AutoCorrelation Descriptors
+GATS4s	AutoCorrelation Descriptors
+ATS5s	AutoCorrelation Descriptors
+ATSC5s	AutoCorrelation Descriptors
+MATS5s	AutoCorrelation Descriptors
+GATS5s	AutoCorrelation Descriptors
+ATS6s	AutoCorrelation Descriptors
+ATSC6s	AutoCorrelation Descriptors
+MATS6s	AutoCorrelation Descriptors
+GATS6s	AutoCorrelation Descriptors
+ATS7s	AutoCorrelation Descriptors
+ATSC7s	AutoCorrelation Descriptors
+MATS7s	AutoCorrelation Descriptors
+GATS7s	AutoCorrelation Descriptors
+ATS8s	AutoCorrelation Descriptors
+ATSC8s	AutoCorrelation Descriptors
+MATS8s	AutoCorrelation Descriptors
+GATS8s	AutoCorrelation Descriptors
+BEH1m	Burden Eigenvalue Descriptors
+BEL1m	Burden Eigenvalue Descriptors
+BEH2m	Burden Eigenvalue Descriptors
+BEL2m	Burden Eigenvalue Descriptors
+BEH3m	Burden Eigenvalue Descriptors
+BEL3m	Burden Eigenvalue Descriptors
+BEH4m	Burden Eigenvalue Descriptors
+BEL4m	Burden Eigenvalue Descriptors
+BEH5m	Burden Eigenvalue Descriptors
+BEL5m	Burden Eigenvalue Descriptors
+BEH6m	Burden Eigenvalue Descriptors
+BEL6m	Burden Eigenvalue Descriptors
+BEH7m	Burden Eigenvalue Descriptors
+BEL7m	Burden Eigenvalue Descriptors
+BEH8m	Burden Eigenvalue Descriptors
+BEL8m	Burden Eigenvalue Descriptors
+BEH1p	Burden Eigenvalue Descriptors
+BEL1p	Burden Eigenvalue Descriptors
+BEH2p	Burden Eigenvalue Descriptors
+BEL2p	Burden Eigenvalue Descriptors
+BEH3p	Burden Eigenvalue Descriptors
+BEL3p	Burden Eigenvalue Descriptors
+BEH4p	Burden Eigenvalue Descriptors
+BEL4p	Burden Eigenvalue Descriptors
+BEH5p	Burden Eigenvalue Descriptors
+BEL5p	Burden Eigenvalue Descriptors
+BEH6p	Burden Eigenvalue Descriptors
+BEL6p	Burden Eigenvalue Descriptors
+BEH7p	Burden Eigenvalue Descriptors
+BEL7p	Burden Eigenvalue Descriptors
+BEH8p	Burden Eigenvalue Descriptors
+BEL8p	Burden Eigenvalue Descriptors
+BEH1e	Burden Eigenvalue Descriptors
+BEL1e	Burden Eigenvalue Descriptors
+BEH2e	Burden Eigenvalue Descriptors
+BEL2e	Burden Eigenvalue Descriptors
+BEH3e	Burden Eigenvalue Descriptors
+BEL3e	Burden Eigenvalue Descriptors
+BEH4e	Burden Eigenvalue Descriptors
+BEL4e	Burden Eigenvalue Descriptors
+BEH5e	Burden Eigenvalue Descriptors
+BEL5e	Burden Eigenvalue Descriptors
+BEH6e	Burden Eigenvalue Descriptors
+BEL6e	Burden Eigenvalue Descriptors
+BEH7e	Burden Eigenvalue Descriptors
+BEL7e	Burden Eigenvalue Descriptors
+BEH8e	Burden Eigenvalue Descriptors
+BEL8e	Burden Eigenvalue Descriptors
+BEH1v	Burden Eigenvalue Descriptors
+BEL1v	Burden Eigenvalue Descriptors
+BEH2v	Burden Eigenvalue Descriptors
+BEL2v	Burden Eigenvalue Descriptors
+BEH3v	Burden Eigenvalue Descriptors
+BEL3v	Burden Eigenvalue Descriptors
+BEH4v	Burden Eigenvalue Descriptors
+BEL4v	Burden Eigenvalue Descriptors
+BEH5v	Burden Eigenvalue Descriptors
+BEL5v	Burden Eigenvalue Descriptors
+BEH6v	Burden Eigenvalue Descriptors
+BEL6v	Burden Eigenvalue Descriptors
+BEH7v	Burden Eigenvalue Descriptors
+BEL7v	Burden Eigenvalue Descriptors
+BEH8v	Burden Eigenvalue Descriptors
+BEL8v	Burden Eigenvalue Descriptors
+CATS2D_0_PN	CATS 2D Descriptors
+CATS2D_0_AP	CATS 2D Descriptors
+CATS2D_0_DA	CATS 2D Descriptors
+CATS2D_0_AL	CATS 2D Descriptors
+CATS2D_0_DL	CATS 2D Descriptors
+CATS2D_0_NL	CATS 2D Descriptors
+CATS2D_1_PN	CATS 2D Descriptors
+CATS2D_1_AP	CATS 2D Descriptors
+CATS2D_1_DA	CATS 2D Descriptors
+CATS2D_1_AL	CATS 2D Descriptors
+CATS2D_1_DL	CATS 2D Descriptors
+CATS2D_1_NL	CATS 2D Descriptors
+CATS2D_2_PN	CATS 2D Descriptors
+CATS2D_2_AP	CATS 2D Descriptors
+CATS2D_2_DA	CATS 2D Descriptors
+CATS2D_2_AL	CATS 2D Descriptors
+CATS2D_2_DL	CATS 2D Descriptors
+CATS2D_2_NL	CATS 2D Descriptors
+CATS2D_3_PN	CATS 2D Descriptors
+CATS2D_3_AP	CATS 2D Descriptors
+CATS2D_3_DA	CATS 2D Descriptors
+CATS2D_3_AL	CATS 2D Descriptors
+CATS2D_3_DL	CATS 2D Descriptors
+CATS2D_3_NL	CATS 2D Descriptors
+CATS2D_4_PN	CATS 2D Descriptors
+CATS2D_4_AP	CATS 2D Descriptors
+CATS2D_4_DA	CATS 2D Descriptors
+CATS2D_4_AL	CATS 2D Descriptors
+CATS2D_4_DL	CATS 2D Descriptors
+CATS2D_4_NL	CATS 2D Descriptors
+CATS2D_5_PN	CATS 2D Descriptors
+CATS2D_5_AP	CATS 2D Descriptors
+CATS2D_5_DA	CATS 2D Descriptors
+CATS2D_5_AL	CATS 2D Descriptors
+CATS2D_5_DL	CATS 2D Descriptors
+CATS2D_5_NL	CATS 2D Descriptors
+CATS2D_6_PN	CATS 2D Descriptors
+CATS2D_6_AP	CATS 2D Descriptors
+CATS2D_6_DA	CATS 2D Descriptors
+CATS2D_6_AL	CATS 2D Descriptors
+CATS2D_6_DL	CATS 2D Descriptors
+CATS2D_6_NL	CATS 2D Descriptors
+CATS2D_7_PN	CATS 2D Descriptors
+CATS2D_7_AP	CATS 2D Descriptors
+CATS2D_7_DA	CATS 2D Descriptors
+CATS2D_7_AL	CATS 2D Descriptors
+CATS2D_7_DL	CATS 2D Descriptors
+CATS2D_7_NL	CATS 2D Descriptors
+CATS2D_8_PN	CATS 2D Descriptors
+CATS2D_8_AP	CATS 2D Descriptors
+CATS2D_8_DA	CATS 2D Descriptors
+CATS2D_8_AL	CATS 2D Descriptors
+CATS2D_8_DL	CATS 2D Descriptors
+CATS2D_8_NL	CATS 2D Descriptors
+CATS2D_9_PN	CATS 2D Descriptors
+CATS2D_9_AP	CATS 2D Descriptors
+CATS2D_9_DA	CATS 2D Descriptors
+CATS2D_9_AL	CATS 2D Descriptors
+CATS2D_9_DL	CATS 2D Descriptors
+CATS2D_9_NL	CATS 2D Descriptors
+X0	Connectivity Descriptors
+X0v	Connectivity Descriptors
+X0sol	Connectivity Descriptors
+X1	Connectivity Descriptors
+X1v	Connectivity Descriptors
+X1sol	Connectivity Descriptors
+X2	Connectivity Descriptors
+X2v	Connectivity Descriptors
+X2sol	Connectivity Descriptors
+X3	Connectivity Descriptors
+X3v	Connectivity Descriptors
+X3sol	Connectivity Descriptors
+X4	Connectivity Descriptors
+X4v	Connectivity Descriptors
+X4sol	Connectivity Descriptors
+X5	Connectivity Descriptors
+X5v	Connectivity Descriptors
+X5sol	Connectivity Descriptors
+MW	Constitutional Descriptors
+AMW	Constitutional Descriptors
+Sv	Constitutional Descriptors
+Mv	Constitutional Descriptors
+Sp	Constitutional Descriptors
+Mp	Constitutional Descriptors
+Se	Constitutional Descriptors
+Me	Constitutional Descriptors
+nAt	Constitutional Descriptors
+nSk	Constitutional Descriptors
+nBt	Constitutional Descriptors
+nBo	Constitutional Descriptors
+nBm	Constitutional Descriptors
+nDblBo	Constitutional Descriptors
+nTrpBo	Constitutional Descriptors
+nArBo	Constitutional Descriptors
+SCBO	Constitutional Descriptors
+nH	Constitutional Descriptors
+nC	Constitutional Descriptors
+nN	Constitutional Descriptors
+nO	Constitutional Descriptors
+nP	Constitutional Descriptors
+nS	Constitutional Descriptors
+nF	Constitutional Descriptors
+nCl	Constitutional Descriptors
+nBr	Constitutional Descriptors
+nI	Constitutional Descriptors
+nB	Constitutional Descriptors
+HPerc	Constitutional Descriptors
+CPerc	Constitutional Descriptors
+NPerc	Constitutional Descriptors
+OPerc	Constitutional Descriptors
+XPerc	Constitutional Descriptors
+nHet	Constitutional Descriptors
+nX	Constitutional Descriptors
+D/Dr3	Distance/Detour Descriptors
+D/Dr4	Distance/Detour Descriptors
+D/Dr5	Distance/Detour Descriptors
+D/Dr6	Distance/Detour Descriptors
+D/Dr7	Distance/Detour Descriptors
+D/Dr8	Distance/Detour Descriptors
+D/Dr9	Distance/Detour Descriptors
+D/Dr10	Distance/Detour Descriptors
+D/Dr11	Distance/Detour Descriptors
+D/Dr12	Distance/Detour Descriptors
+MDE_C_11	DistanceEdge descriptors
+MDE_C_12	DistanceEdge descriptors
+MDE_C_13	DistanceEdge descriptors
+MDE_C_21	DistanceEdge descriptors
+MDE_C_22	DistanceEdge descriptors
+MDE_C_23	DistanceEdge descriptors
+MDE_C_31	DistanceEdge descriptors
+MDE_C_32	DistanceEdge descriptors
+MDE_C_33	DistanceEdge descriptors
+MDE_N_11	DistanceEdge descriptors
+MDE_N_12	DistanceEdge descriptors
+MDE_N_13	DistanceEdge descriptors
+MDE_N_21	DistanceEdge descriptors
+MDE_N_22	DistanceEdge descriptors
+MDE_N_23	DistanceEdge descriptors
+MDE_N_31	DistanceEdge descriptors
+MDE_N_32	DistanceEdge descriptors
+MDE_N_33	DistanceEdge descriptors
+MDE_O_11	DistanceEdge descriptors
+MDE_O_12	DistanceEdge descriptors
+MDE_O_13	DistanceEdge descriptors
+MDE_O_21	DistanceEdge descriptors
+MDE_O_22	DistanceEdge descriptors
+MDE_O_23	DistanceEdge descriptors
+MDE_O_31	DistanceEdge descriptors
+MDE_O_32	DistanceEdge descriptors
+MDE_O_33	DistanceEdge descriptors
+SsCl	E-States Descriptors
+SsBr	E-States Descriptors
+SsF	E-States Descriptors
+SsI	E-States Descriptors
+SdssC	E-States Descriptors
+SsssN	E-States Descriptors
+SssNH	E-States Descriptors
+StN	E-States Descriptors
+SsSH	E-States Descriptors
+SdssNp	E-States Descriptors
+StsC	E-States Descriptors
+SsOm	E-States Descriptors
+Ss	E-States Descriptors
+Ms	E-States Descriptors
+SHssNH	E-States Descriptors
+Hmax	E-States Descriptors
+Hmin	E-States Descriptors
+Gmax	E-States Descriptors
+Gmin	E-States Descriptors
+Qs	E-States Descriptors
+Qv	E-States Descriptors
+Qsv	E-States Descriptors
+SpMaxed	Edge Adjacency Descriptors
+EEig1ed	Edge Adjacency Descriptors
+EEig2ed	Edge Adjacency Descriptors
+EEig3ed	Edge Adjacency Descriptors
+EEig4ed	Edge Adjacency Descriptors
+EEig5ed	Edge Adjacency Descriptors
+EEig6ed	Edge Adjacency Descriptors
+EEig7ed	Edge Adjacency Descriptors
+EEig8ed	Edge Adjacency Descriptors
+EEig9ed	Edge Adjacency Descriptors
+EEig10ed	Edge Adjacency Descriptors
+EEig11ed	Edge Adjacency Descriptors
+EEig12ed	Edge Adjacency Descriptors
+EEig13ed	Edge Adjacency Descriptors
+EEig14ed	Edge Adjacency Descriptors
+EEig15ed	Edge Adjacency Descriptors
+ESpm1ed	Edge Adjacency Descriptors
+ESpm1edD5	Edge Adjacency Descriptors
+ESpm2ed	Edge Adjacency Descriptors
+ESpm2edD5	Edge Adjacency Descriptors
+ESpm3ed	Edge Adjacency Descriptors
+ESpm3edD5	Edge Adjacency Descriptors
+ESpm4ed	Edge Adjacency Descriptors
+ESpm4edD5	Edge Adjacency Descriptors
+ESpm5ed	Edge Adjacency Descriptors
+ESpm5edD5	Edge Adjacency Descriptors
+ESpm6ed	Edge Adjacency Descriptors
+ESpm6edD5	Edge Adjacency Descriptors
+ESpm7ed	Edge Adjacency Descriptors
+ESpm7edD5	Edge Adjacency Descriptors
+ESpm8ed	Edge Adjacency Descriptors
+ESpm8edD5	Edge Adjacency Descriptors
+ESpm9ed	Edge Adjacency Descriptors
+ESpm9edD5	Edge Adjacency Descriptors
+ESpm10ed	Edge Adjacency Descriptors
+ESpm10edD5	Edge Adjacency Descriptors
+ESpm11ed	Edge Adjacency Descriptors
+ESpm11edD5	Edge Adjacency Descriptors
+ESpm12ed	Edge Adjacency Descriptors
+ESpm12edD5	Edge Adjacency Descriptors
+ESpm13ed	Edge Adjacency Descriptors
+ESpm13edD5	Edge Adjacency Descriptors
+ESpm14ed	Edge Adjacency Descriptors
+ESpm14edD5	Edge Adjacency Descriptors
+ESpm15ed	Edge Adjacency Descriptors
+ESpm15edD5	Edge Adjacency Descriptors
+SpMaxdm	Edge Adjacency Descriptors
+EEig1dm	Edge Adjacency Descriptors
+EEig2dm	Edge Adjacency Descriptors
+EEig3dm	Edge Adjacency Descriptors
+EEig4dm	Edge Adjacency Descriptors
+EEig5dm	Edge Adjacency Descriptors
+EEig6dm	Edge Adjacency Descriptors
+EEig7dm	Edge Adjacency Descriptors
+EEig8dm	Edge Adjacency Descriptors
+EEig9dm	Edge Adjacency Descriptors
+EEig10dm	Edge Adjacency Descriptors
+EEig11dm	Edge Adjacency Descriptors
+EEig12dm	Edge Adjacency Descriptors
+EEig13dm	Edge Adjacency Descriptors
+EEig14dm	Edge Adjacency Descriptors
+EEig15dm	Edge Adjacency Descriptors
+ESpm1dm	Edge Adjacency Descriptors
+ESpm1dmD5	Edge Adjacency Descriptors
+ESpm2dm	Edge Adjacency Descriptors
+ESpm2dmD5	Edge Adjacency Descriptors
+ESpm3dm	Edge Adjacency Descriptors
+ESpm3dmD5	Edge Adjacency Descriptors
+ESpm4dm	Edge Adjacency Descriptors
+ESpm4dmD5	Edge Adjacency Descriptors
+ESpm5dm	Edge Adjacency Descriptors
+ESpm5dmD5	Edge Adjacency Descriptors
+ESpm6dm	Edge Adjacency Descriptors
+ESpm6dmD5	Edge Adjacency Descriptors
+ESpm7dm	Edge Adjacency Descriptors
+ESpm7dmD5	Edge Adjacency Descriptors
+ESpm8dm	Edge Adjacency Descriptors
+ESpm8dmD5	Edge Adjacency Descriptors
+ESpm9dm	Edge Adjacency Descriptors
+ESpm9dmD5	Edge Adjacency Descriptors
+ESpm10dm	Edge Adjacency Descriptors
+ESpm10dmD5	Edge Adjacency Descriptors
+ESpm11dm	Edge Adjacency Descriptors
+ESpm11dmD5	Edge Adjacency Descriptors
+ESpm12dm	Edge Adjacency Descriptors
+ESpm12dmD5	Edge Adjacency Descriptors
+ESpm13dm	Edge Adjacency Descriptors
+ESpm13dmD5	Edge Adjacency Descriptors
+ESpm14dm	Edge Adjacency Descriptors
+ESpm14dmD5	Edge Adjacency Descriptors
+ESpm15dm	Edge Adjacency Descriptors
+ESpm15dmD5	Edge Adjacency Descriptors
+SpMaxri	Edge Adjacency Descriptors
+EEig1ri	Edge Adjacency Descriptors
+EEig2ri	Edge Adjacency Descriptors
+EEig3ri	Edge Adjacency Descriptors
+EEig4ri	Edge Adjacency Descriptors
+EEig5ri	Edge Adjacency Descriptors
+EEig6ri	Edge Adjacency Descriptors
+EEig7ri	Edge Adjacency Descriptors
+EEig8ri	Edge Adjacency Descriptors
+EEig9ri	Edge Adjacency Descriptors
+EEig10ri	Edge Adjacency Descriptors
+EEig11ri	Edge Adjacency Descriptors
+EEig12ri	Edge Adjacency Descriptors
+EEig13ri	Edge Adjacency Descriptors
+EEig14ri	Edge Adjacency Descriptors
+EEig15ri	Edge Adjacency Descriptors
+ESpm1ri	Edge Adjacency Descriptors
+ESpm1riD5	Edge Adjacency Descriptors
+ESpm2ri	Edge Adjacency Descriptors
+ESpm2riD5	Edge Adjacency Descriptors
+ESpm3ri	Edge Adjacency Descriptors
+ESpm3riD5	Edge Adjacency Descriptors
+ESpm4ri	Edge Adjacency Descriptors
+ESpm4riD5	Edge Adjacency Descriptors
+ESpm5ri	Edge Adjacency Descriptors
+ESpm5riD5	Edge Adjacency Descriptors
+ESpm6ri	Edge Adjacency Descriptors
+ESpm6riD5	Edge Adjacency Descriptors
+ESpm7ri	Edge Adjacency Descriptors
+ESpm7riD5	Edge Adjacency Descriptors
+ESpm8ri	Edge Adjacency Descriptors
+ESpm8riD5	Edge Adjacency Descriptors
+ESpm9ri	Edge Adjacency Descriptors
+ESpm9riD5	Edge Adjacency Descriptors
+ESpm10ri	Edge Adjacency Descriptors
+ESpm10riD5	Edge Adjacency Descriptors
+ESpm11ri	Edge Adjacency Descriptors
+ESpm11riD5	Edge Adjacency Descriptors
+ESpm12ri	Edge Adjacency Descriptors
+ESpm12riD5	Edge Adjacency Descriptors
+ESpm13ri	Edge Adjacency Descriptors
+ESpm13riD5	Edge Adjacency Descriptors
+ESpm14ri	Edge Adjacency Descriptors
+ESpm14riD5	Edge Adjacency Descriptors
+ESpm15ri	Edge Adjacency Descriptors
+ESpm15riD5	Edge Adjacency Descriptors
+SpMaxbo	Edge Adjacency Descriptors
+EEig1bo	Edge Adjacency Descriptors
+EEig2bo	Edge Adjacency Descriptors
+EEig3bo	Edge Adjacency Descriptors
+EEig4bo	Edge Adjacency Descriptors
+EEig5bo	Edge Adjacency Descriptors
+EEig6bo	Edge Adjacency Descriptors
+EEig7bo	Edge Adjacency Descriptors
+EEig8bo	Edge Adjacency Descriptors
+EEig9bo	Edge Adjacency Descriptors
+EEig10bo	Edge Adjacency Descriptors
+EEig11bo	Edge Adjacency Descriptors
+EEig12bo	Edge Adjacency Descriptors
+EEig13bo	Edge Adjacency Descriptors
+EEig14bo	Edge Adjacency Descriptors
+EEig15bo	Edge Adjacency Descriptors
+ESpm1bo	Edge Adjacency Descriptors
+ESpm1boD5	Edge Adjacency Descriptors
+ESpm2bo	Edge Adjacency Descriptors
+ESpm2boD5	Edge Adjacency Descriptors
+ESpm3bo	Edge Adjacency Descriptors
+ESpm3boD5	Edge Adjacency Descriptors
+ESpm4bo	Edge Adjacency Descriptors
+ESpm4boD5	Edge Adjacency Descriptors
+ESpm5bo	Edge Adjacency Descriptors
+ESpm5boD5	Edge Adjacency Descriptors
+ESpm6bo	Edge Adjacency Descriptors
+ESpm6boD5	Edge Adjacency Descriptors
+ESpm7bo	Edge Adjacency Descriptors
+ESpm7boD5	Edge Adjacency Descriptors
+ESpm8bo	Edge Adjacency Descriptors
+ESpm8boD5	Edge Adjacency Descriptors
+ESpm9bo	Edge Adjacency Descriptors
+ESpm9boD5	Edge Adjacency Descriptors
+ESpm10bo	Edge Adjacency Descriptors
+ESpm10boD5	Edge Adjacency Descriptors
+ESpm11bo	Edge Adjacency Descriptors
+ESpm11boD5	Edge Adjacency Descriptors
+ESpm12bo	Edge Adjacency Descriptors
+ESpm12boD5	Edge Adjacency Descriptors
+ESpm13bo	Edge Adjacency Descriptors
+ESpm13boD5	Edge Adjacency Descriptors
+ESpm14bo	Edge Adjacency Descriptors
+ESpm14boD5	Edge Adjacency Descriptors
+ESpm15bo	Edge Adjacency Descriptors
+ESpm15boD5	Edge Adjacency Descriptors
+Eig1m	Eigenvalue-based Descriptors
+SEigm	Eigenvalue-based Descriptors
+AEigm	Eigenvalue-based Descriptors
+Eig1p	Eigenvalue-based Descriptors
+SEigp	Eigenvalue-based Descriptors
+AEigp	Eigenvalue-based Descriptors
+Eig1e	Eigenvalue-based Descriptors
+SEige	Eigenvalue-based Descriptors
+AEige	Eigenvalue-based Descriptors
+Eig1v	Eigenvalue-based Descriptors
+SEigv	Eigenvalue-based Descriptors
+AEigv	Eigenvalue-based Descriptors
+MWC1	Walk and Path Descriptors
+MPC1	Walk and Path Descriptors
+PW1	Walk and Path Descriptors
+piPC1	Walk and Path Descriptors
+MWC2	Walk and Path Descriptors
+MPC2	Walk and Path Descriptors
+PW2	Walk and Path Descriptors
+piPC2	Walk and Path Descriptors
+MWC3	Walk and Path Descriptors
+MPC3	Walk and Path Descriptors
+PW3	Walk and Path Descriptors
+piPC3	Walk and Path Descriptors
+MWC4	Walk and Path Descriptors
+MPC4	Walk and Path Descriptors
+PW4	Walk and Path Descriptors
+piPC4	Walk and Path Descriptors
+MWC5	Walk and Path Descriptors
+MPC5	Walk and Path Descriptors
+PW5	Walk and Path Descriptors
+piPC5	Walk and Path Descriptors
+MWC6	Walk and Path Descriptors
+MPC6	Walk and Path Descriptors
+PW6	Walk and Path Descriptors
+piPC6	Walk and Path Descriptors
+MWC7	Walk and Path Descriptors
+MPC7	Walk and Path Descriptors
+PW7	Walk and Path Descriptors
+piPC7	Walk and Path Descriptors
+MWC8	Walk and Path Descriptors
+MPC8	Walk and Path Descriptors
+PW8	Walk and Path Descriptors
+piPC8	Walk and Path Descriptors
+MWC9	Walk and Path Descriptors
+MPC9	Walk and Path Descriptors
+PW9	Walk and Path Descriptors
+piPC9	Walk and Path Descriptors
+MWC10	Walk and Path Descriptors
+MPC10	Walk and Path Descriptors
+PW10	Walk and Path Descriptors
+piPC10	Walk and Path Descriptors
+SRW1	Walk and Path Descriptors
+SRW2	Walk and Path Descriptors
+SRW3	Walk and Path Descriptors
+SRW4	Walk and Path Descriptors
+SRW5	Walk and Path Descriptors
+SRW6	Walk and Path Descriptors
+SRW7	Walk and Path Descriptors
+SRW8	Walk and Path Descriptors
+SRW9	Walk and Path Descriptors
+SRW10	Walk and Path Descriptors
+piID	Walk and Path Descriptors
+TPC	Walk and Path Descriptors
+PCR	Walk and Path Descriptors
+nCp	Functional Groups
+nCs	Functional Groups
+nCt	Functional Groups
+nCq	Functional Groups
+nCrs	Functional Groups
+nCrt	Functional Groups
+nCrq	Functional Groups
+nCar	Functional Groups
+nCbH	Functional Groups
+nCb–	Functional Groups
+nCconj	Functional Groups
+nR=Cp	Functional Groups
+nR=Cs	Functional Groups
+nR=Ct	Functional Groups
+n=C=	Functional Groups
+nR#CH/X	Functional Groups
+nR#C–	Functional Groups
+nROCN	Functional Groups
+nArOCN	Functional Groups
+nRNCO	Functional Groups
+nArNCO	Functional Groups
+nRSCN	Functional Groups
+nArSCN	Functional Groups
+nRNCS	Functional Groups
+nArNCS	Functional Groups
+nRCOOH	Functional Groups
+nArCOOH	Functional Groups
+nRCOOR	Functional Groups
+nArCOOR	Functional Groups
+nRCONH2	Functional Groups
+nArCONH2	Functional Groups
+nRCONHR	Functional Groups
+nArCONHR	Functional Groups
+nRCONR2	Functional Groups
+nArCONR2	Functional Groups
+nROCON	Functional Groups
+nArOCON	Functional Groups
+nRCOX	Functional Groups
+nArCOX	Functional Groups
+nRCSOH	Functional Groups
+nArCSOH	Functional Groups
+nRCSSH	Functional Groups
+nArCSSH	Functional Groups
+nRCOSR	Functional Groups
+nArCOSR	Functional Groups
+nRCSSR	Functional Groups
+nArCSSR	Functional Groups
+nRCHO	Functional Groups
+nArCHO	Functional Groups
+nRCO	Functional Groups
+nArCO	Functional Groups
+nCONN	Functional Groups
+nC=O(OR)2	Functional Groups
+nN=C-N<	Functional Groups
+nC(=N)N2	Functional Groups
+nRC=N	Functional Groups
+nArC=N	Functional Groups
+nRCNO	Functional Groups
+nArCNO	Functional Groups
+nRNH2	Functional Groups
+nArNH2	Functional Groups
+nRNHR	Functional Groups
+nArNHR	Functional Groups
+nRNR2	Functional Groups
+nArNR2	Functional Groups
+nN-N	Functional Groups
+nN=N	Functional Groups
+nRCN	Functional Groups
+nArCN	Functional Groups
+nN+	Functional Groups
+nNq	Functional Groups
+nRNHO	Functional Groups
+nArNHO	Functional Groups
+nRNNOx	Functional Groups
+nArNNOx	Functional Groups
+nRNO	Functional Groups
+nArNO	Functional Groups
+nRNO2	Functional Groups
+nArNO2	Functional Groups
+nN(CO)2	Functional Groups
+nC=N-N<	Functional Groups
+nROH	Functional Groups
+nArOH	Functional Groups
+nOHp	Functional Groups
+nOHs	Functional Groups
+nOHt	Functional Groups
+nROR	Functional Groups
+nArOR	Functional Groups
+nROX	Functional Groups
+nArOX	Functional Groups
+nO(C=O)2	Functional Groups
+nH2O	Functional Groups
+nSH	Functional Groups
+nC=S	Functional Groups
+nRSR	Functional Groups
+nRSSR	Functional Groups
+nSO	Functional Groups
+nS(=O)2	Functional Groups
+nSOH	Functional Groups
+nSOOH	Functional Groups
+nSO2OH	Functional Groups
+nSO3OH	Functional Groups
+nSO2	Functional Groups
+nSO3	Functional Groups
+nSO4	Functional Groups
+nSO2N	Functional Groups
+nPO3	Functional Groups
+nPO4	Functional Groups
+nPR3	Functional Groups
+nP(=O)O2R	Functional Groups
+nP(=O)R3/nPR5	Functional Groups
+nCH2RX	Functional Groups
+nCHR2X	Functional Groups
+nCR3X	Functional Groups
+nR=CHX	Functional Groups
+nR=CRX	Functional Groups
+nR#CX	Functional Groups
+nCHRX2	Functional Groups
+nCR2X2	Functional Groups
+nR=CX2	Functional Groups
+nCRX3	Functional Groups
+nArX	Functional Groups
+nCXr	Functional Groups
+nCXr=	Functional Groups
+nCconjX	Functional Groups
+nAziridines	Functional Groups
+nOxiranes	Functional Groups
+nThiranes	Functional Groups
+nAzetidines	Functional Groups
+nOxetanes	Functional Groups
+nThioethanes	Functional Groups
+nBeta-Lactams	Functional Groups
+nPyrrolidines	Functional Groups
+nOxolanes	Functional Groups
+nth-Thiophenes	Functional Groups
+nPyrroles	Functional Groups
+nPyrazoles	Functional Groups
+nImidazoles	Functional Groups
+nFuranes	Functional Groups
+nThiophenes	Functional Groups
+nOxazoles	Functional Groups
+nIsoxazoles	Functional Groups
+nThiazoles	Functional Groups
+nIsothiazoles	Functional Groups
+nTriazoles	Functional Groups
+nPyridines	Functional Groups
+nPyridazines	Functional Groups
+nPyrimidines	Functional Groups
+nPyrazines	Functional Groups
+n135-Triazines	Functional Groups
+n124-Triazines	Functional Groups
+nHDon	Functional Groups
+nHAcc	Functional Groups
+IC1	Information Content
+CIC1	Information Content
+BIC1	Information Content
+SIC1	Information Content
+IC2	Information Content
+CIC2	Information Content
+BIC2	Information Content
+SIC2	Information Content
+IC3	Information Content
+CIC3	Information Content
+BIC3	Information Content
+SIC3	Information Content
+IC4	Information Content
+CIC4	Information Content
+BIC4	Information Content
+SIC4	Information Content
+IC5	Information Content
+CIC5	Information Content
+BIC5	Information Content
+SIC5	Information Content
+P_VSA_m_1	PVSA Descriptors
+P_VSA_m_2	PVSA Descriptors
+P_VSA_m_3	PVSA Descriptors
+P_VSA_m_4	PVSA Descriptors
+P_VSA_m_5	PVSA Descriptors
+P_VSA_logp_1	PVSA Descriptors
+P_VSA_logp_2	PVSA Descriptors
+P_VSA_logp_3	PVSA Descriptors
+P_VSA_logp_4	PVSA Descriptors
+P_VSA_logp_5	PVSA Descriptors
+P_VSA_logp_6	PVSA Descriptors
+P_VSA_logp_7	PVSA Descriptors
+P_VSA_logp_8	PVSA Descriptors
+P_VSA_i_1	PVSA Descriptors
+P_VSA_i_2	PVSA Descriptors
+P_VSA_i_3	PVSA Descriptors
+P_VSA_i_4	PVSA Descriptors
+nR3	Rings Descriptors
+nR4	Rings Descriptors
+nR5	Rings Descriptors
+nR6	Rings Descriptors
+nR7	Rings Descriptors
+nR8	Rings Descriptors
+nR9	Rings Descriptors
+nR10	Rings Descriptors
+nR11	Rings Descriptors
+W	Topological Descriptors
+WA	Topological Descriptors
+SNar	Topological Descriptors
+HNar	Topological Descriptors
+GNar	Topological Descriptors
+T(C..C)	Topological Distances Descriptors
+T(C..N)	Topological Distances Descriptors
+T(C..O)	Topological Distances Descriptors
+T(C..S)	Topological Distances Descriptors
+T(C..P)	Topological Distances Descriptors
+T(C..F)	Topological Distances Descriptors
+T(C..Cl)	Topological Distances Descriptors
+T(C..Br)	Topological Distances Descriptors
+T(C..I)	Topological Distances Descriptors
+T(N..N)	Topological Distances Descriptors
+T(N..O)	Topological Distances Descriptors
+T(N..S)	Topological Distances Descriptors
+T(N..P)	Topological Distances Descriptors
+T(N..F)	Topological Distances Descriptors
+T(N..Cl)	Topological Distances Descriptors
+T(N..Br)	Topological Distances Descriptors
+T(N..I)	Topological Distances Descriptors
+T(O..O)	Topological Distances Descriptors
+T(O..S)	Topological Distances Descriptors
+T(O..P)	Topological Distances Descriptors
+T(O..F)	Topological Distances Descriptors
+T(O..Cl)	Topological Distances Descriptors
+T(O..Br)	Topological Distances Descriptors
+T(O..I)	Topological Distances Descriptors
+T(S..S)	Topological Distances Descriptors
+T(S..P)	Topological Distances Descriptors
+T(S..F)	Topological Distances Descriptors
+T(S..Cl)	Topological Distances Descriptors
+T(S..Br)	Topological Distances Descriptors
+T(S..I)	Topological Distances Descriptors
+T(P..P)	Topological Distances Descriptors
+T(P..F)	Topological Distances Descriptors
+T(P..Cl)	Topological Distances Descriptors
+T(P..Br)	Topological Distances Descriptors
+T(P..I)	Topological Distances Descriptors
+T(F..F)	Topological Distances Descriptors
+T(F..Cl)	Topological Distances Descriptors
+T(F..Br)	Topological Distances Descriptors
+T(F..I)	Topological Distances Descriptors
+T(Cl..Cl)	Topological Distances Descriptors
+T(Cl..Br)	Topological Distances Descriptors
+T(Cl..I)	Topological Distances Descriptors
+T(Br..Br)	Topological Distances Descriptors
+T(Br..I)	Topological Distances Descriptors
+T(I..I)	Topological Distances Descriptors
+B1(C..C)	Topological Distances Descriptors
+F1(C..C)	Topological Distances Descriptors
+B1(C..N)	Topological Distances Descriptors
+F1(C..N)	Topological Distances Descriptors
+B1(C..O)	Topological Distances Descriptors
+F1(C..O)	Topological Distances Descriptors
+B1(C..S)	Topological Distances Descriptors
+F1(C..S)	Topological Distances Descriptors
+B1(C..P)	Topological Distances Descriptors
+F1(C..P)	Topological Distances Descriptors
+B1(C..F)	Topological Distances Descriptors
+F1(C..F)	Topological Distances Descriptors
+B1(C..Cl)	Topological Distances Descriptors
+F1(C..Cl)	Topological Distances Descriptors
+B1(C..Br)	Topological Distances Descriptors
+F1(C..Br)	Topological Distances Descriptors
+B1(C..I)	Topological Distances Descriptors
+F1(C..I)	Topological Distances Descriptors
+B1(N..N)	Topological Distances Descriptors
+F1(N..N)	Topological Distances Descriptors
+B1(N..O)	Topological Distances Descriptors
+F1(N..O)	Topological Distances Descriptors
+B1(N..S)	Topological Distances Descriptors
+F1(N..S)	Topological Distances Descriptors
+B1(N..P)	Topological Distances Descriptors
+F1(N..P)	Topological Distances Descriptors
+B1(N..F)	Topological Distances Descriptors
+F1(N..F)	Topological Distances Descriptors
+B1(N..Cl)	Topological Distances Descriptors
+F1(N..Cl)	Topological Distances Descriptors
+B1(N..Br)	Topological Distances Descriptors
+F1(N..Br)	Topological Distances Descriptors
+B1(N..I)	Topological Distances Descriptors
+F1(N..I)	Topological Distances Descriptors
+B1(O..O)	Topological Distances Descriptors
+F1(O..O)	Topological Distances Descriptors
+B1(O..S)	Topological Distances Descriptors
+F1(O..S)	Topological Distances Descriptors
+B1(O..P)	Topological Distances Descriptors
+F1(O..P)	Topological Distances Descriptors
+B1(O..F)	Topological Distances Descriptors
+F1(O..F)	Topological Distances Descriptors
+B1(O..Cl)	Topological Distances Descriptors
+F1(O..Cl)	Topological Distances Descriptors
+B1(O..Br)	Topological Distances Descriptors
+F1(O..Br)	Topological Distances Descriptors
+B1(O..I)	Topological Distances Descriptors
+F1(O..I)	Topological Distances Descriptors
+B1(S..S)	Topological Distances Descriptors
+F1(S..S)	Topological Distances Descriptors
+B1(S..P)	Topological Distances Descriptors
+F1(S..P)	Topological Distances Descriptors
+B1(S..F)	Topological Distances Descriptors
+F1(S..F)	Topological Distances Descriptors
+B1(S..Cl)	Topological Distances Descriptors
+F1(S..Cl)	Topological Distances Descriptors
+B1(S..Br)	Topological Distances Descriptors
+F1(S..Br)	Topological Distances Descriptors
+B1(S..I)	Topological Distances Descriptors
+F1(S..I)	Topological Distances Descriptors
+B1(P..P)	Topological Distances Descriptors
+F1(P..P)	Topological Distances Descriptors
+B1(P..F)	Topological Distances Descriptors
+F1(P..F)	Topological Distances Descriptors
+B1(P..Cl)	Topological Distances Descriptors
+F1(P..Cl)	Topological Distances Descriptors
+B1(P..Br)	Topological Distances Descriptors
+F1(P..Br)	Topological Distances Descriptors
+B1(P..I)	Topological Distances Descriptors
+F1(P..I)	Topological Distances Descriptors
+B1(F..F)	Topological Distances Descriptors
+F1(F..F)	Topological Distances Descriptors
+B1(F..Cl)	Topological Distances Descriptors
+F1(F..Cl)	Topological Distances Descriptors
+B1(F..Br)	Topological Distances Descriptors
+F1(F..Br)	Topological Distances Descriptors
+B1(F..I)	Topological Distances Descriptors
+F1(F..I)	Topological Distances Descriptors
+B1(Cl..Cl)	Topological Distances Descriptors
+F1(Cl..Cl)	Topological Distances Descriptors
+B1(Cl..Br)	Topological Distances Descriptors
+F1(Cl..Br)	Topological Distances Descriptors
+B1(Cl..I)	Topological Distances Descriptors
+F1(Cl..I)	Topological Distances Descriptors
+B1(Br..Br)	Topological Distances Descriptors
+F1(Br..Br)	Topological Distances Descriptors
+B1(Br..I)	Topological Distances Descriptors
+F1(Br..I)	Topological Distances Descriptors
+B1(I..I)	Topological Distances Descriptors
+F1(I..I)	Topological Distances Descriptors
+B2(C..C)	Topological Distances Descriptors
+F2(C..C)	Topological Distances Descriptors
+B2(C..N)	Topological Distances Descriptors
+F2(C..N)	Topological Distances Descriptors
+B2(C..O)	Topological Distances Descriptors
+F2(C..O)	Topological Distances Descriptors
+B2(C..S)	Topological Distances Descriptors
+F2(C..S)	Topological Distances Descriptors
+B2(C..P)	Topological Distances Descriptors
+F2(C..P)	Topological Distances Descriptors
+B2(C..F)	Topological Distances Descriptors
+F2(C..F)	Topological Distances Descriptors
+B2(C..Cl)	Topological Distances Descriptors
+F2(C..Cl)	Topological Distances Descriptors
+B2(C..Br)	Topological Distances Descriptors
+F2(C..Br)	Topological Distances Descriptors
+B2(C..I)	Topological Distances Descriptors
+F2(C..I)	Topological Distances Descriptors
+B2(N..N)	Topological Distances Descriptors
+F2(N..N)	Topological Distances Descriptors
+B2(N..O)	Topological Distances Descriptors
+F2(N..O)	Topological Distances Descriptors
+B2(N..S)	Topological Distances Descriptors
+F2(N..S)	Topological Distances Descriptors
+B2(N..P)	Topological Distances Descriptors
+F2(N..P)	Topological Distances Descriptors
+B2(N..F)	Topological Distances Descriptors
+F2(N..F)	Topological Distances Descriptors
+B2(N..Cl)	Topological Distances Descriptors
+F2(N..Cl)	Topological Distances Descriptors
+B2(N..Br)	Topological Distances Descriptors
+F2(N..Br)	Topological Distances Descriptors
+B2(N..I)	Topological Distances Descriptors
+F2(N..I)	Topological Distances Descriptors
+B2(O..O)	Topological Distances Descriptors
+F2(O..O)	Topological Distances Descriptors
+B2(O..S)	Topological Distances Descriptors
+F2(O..S)	Topological Distances Descriptors
+B2(O..P)	Topological Distances Descriptors
+F2(O..P)	Topological Distances Descriptors
+B2(O..F)	Topological Distances Descriptors
+F2(O..F)	Topological Distances Descriptors
+B2(O..Cl)	Topological Distances Descriptors
+F2(O..Cl)	Topological Distances Descriptors
+B2(O..Br)	Topological Distances Descriptors
+F2(O..Br)	Topological Distances Descriptors
+B2(O..I)	Topological Distances Descriptors
+F2(O..I)	Topological Distances Descriptors
+B2(S..S)	Topological Distances Descriptors
+F2(S..S)	Topological Distances Descriptors
+B2(S..P)	Topological Distances Descriptors
+F2(S..P)	Topological Distances Descriptors
+B2(S..F)	Topological Distances Descriptors
+F2(S..F)	Topological Distances Descriptors
+B2(S..Cl)	Topological Distances Descriptors
+F2(S..Cl)	Topological Distances Descriptors
+B2(S..Br)	Topological Distances Descriptors
+F2(S..Br)	Topological Distances Descriptors
+B2(S..I)	Topological Distances Descriptors
+F2(S..I)	Topological Distances Descriptors
+B2(P..P)	Topological Distances Descriptors
+F2(P..P)	Topological Distances Descriptors
+B2(P..F)	Topological Distances Descriptors
+F2(P..F)	Topological Distances Descriptors
+B2(P..Cl)	Topological Distances Descriptors
+F2(P..Cl)	Topological Distances Descriptors
+B2(P..Br)	Topological Distances Descriptors
+F2(P..Br)	Topological Distances Descriptors
+B2(P..I)	Topological Distances Descriptors
+F2(P..I)	Topological Distances Descriptors
+B2(F..F)	Topological Distances Descriptors
+F2(F..F)	Topological Distances Descriptors
+B2(F..Cl)	Topological Distances Descriptors
+F2(F..Cl)	Topological Distances Descriptors
+B2(F..Br)	Topological Distances Descriptors
+F2(F..Br)	Topological Distances Descriptors
+B2(F..I)	Topological Distances Descriptors
+F2(F..I)	Topological Distances Descriptors
+B2(Cl..Cl)	Topological Distances Descriptors
+F2(Cl..Cl)	Topological Distances Descriptors
+B2(Cl..Br)	Topological Distances Descriptors
+F2(Cl..Br)	Topological Distances Descriptors
+B2(Cl..I)	Topological Distances Descriptors
+F2(Cl..I)	Topological Distances Descriptors
+B2(Br..Br)	Topological Distances Descriptors
+F2(Br..Br)	Topological Distances Descriptors
+B2(Br..I)	Topological Distances Descriptors
+F2(Br..I)	Topological Distances Descriptors
+B2(I..I)	Topological Distances Descriptors
+F2(I..I)	Topological Distances Descriptors
+B3(C..C)	Topological Distances Descriptors
+F3(C..C)	Topological Distances Descriptors
+B3(C..N)	Topological Distances Descriptors
+F3(C..N)	Topological Distances Descriptors
+B3(C..O)	Topological Distances Descriptors
+F3(C..O)	Topological Distances Descriptors
+B3(C..S)	Topological Distances Descriptors
+F3(C..S)	Topological Distances Descriptors
+B3(C..P)	Topological Distances Descriptors
+F3(C..P)	Topological Distances Descriptors
+B3(C..F)	Topological Distances Descriptors
+F3(C..F)	Topological Distances Descriptors
+B3(C..Cl)	Topological Distances Descriptors
+F3(C..Cl)	Topological Distances Descriptors
+B3(C..Br)	Topological Distances Descriptors
+F3(C..Br)	Topological Distances Descriptors
+B3(C..I)	Topological Distances Descriptors
+F3(C..I)	Topological Distances Descriptors
+B3(N..N)	Topological Distances Descriptors
+F3(N..N)	Topological Distances Descriptors
+B3(N..O)	Topological Distances Descriptors
+F3(N..O)	Topological Distances Descriptors
+B3(N..S)	Topological Distances Descriptors
+F3(N..S)	Topological Distances Descriptors
+B3(N..P)	Topological Distances Descriptors
+F3(N..P)	Topological Distances Descriptors
+B3(N..F)	Topological Distances Descriptors
+F3(N..F)	Topological Distances Descriptors
+B3(N..Cl)	Topological Distances Descriptors
+F3(N..Cl)	Topological Distances Descriptors
+B3(N..Br)	Topological Distances Descriptors
+F3(N..Br)	Topological Distances Descriptors
+B3(N..I)	Topological Distances Descriptors
+F3(N..I)	Topological Distances Descriptors
+B3(O..O)	Topological Distances Descriptors
+F3(O..O)	Topological Distances Descriptors
+B3(O..S)	Topological Distances Descriptors
+F3(O..S)	Topological Distances Descriptors
+B3(O..P)	Topological Distances Descriptors
+F3(O..P)	Topological Distances Descriptors
+B3(O..F)	Topological Distances Descriptors
+F3(O..F)	Topological Distances Descriptors
+B3(O..Cl)	Topological Distances Descriptors
+F3(O..Cl)	Topological Distances Descriptors
+B3(O..Br)	Topological Distances Descriptors
+F3(O..Br)	Topological Distances Descriptors
+B3(O..I)	Topological Distances Descriptors
+F3(O..I)	Topological Distances Descriptors
+B3(S..S)	Topological Distances Descriptors
+F3(S..S)	Topological Distances Descriptors
+B3(S..P)	Topological Distances Descriptors
+F3(S..P)	Topological Distances Descriptors
+B3(S..F)	Topological Distances Descriptors
+F3(S..F)	Topological Distances Descriptors
+B3(S..Cl)	Topological Distances Descriptors
+F3(S..Cl)	Topological Distances Descriptors
+B3(S..Br)	Topological Distances Descriptors
+F3(S..Br)	Topological Distances Descriptors
+B3(S..I)	Topological Distances Descriptors
+F3(S..I)	Topological Distances Descriptors
+B3(P..P)	Topological Distances Descriptors
+F3(P..P)	Topological Distances Descriptors
+B3(P..F)	Topological Distances Descriptors
+F3(P..F)	Topological Distances Descriptors
+B3(P..Cl)	Topological Distances Descriptors
+F3(P..Cl)	Topological Distances Descriptors
+B3(P..Br)	Topological Distances Descriptors
+F3(P..Br)	Topological Distances Descriptors
+B3(P..I)	Topological Distances Descriptors
+F3(P..I)	Topological Distances Descriptors
+B3(F..F)	Topological Distances Descriptors
+F3(F..F)	Topological Distances Descriptors
+B3(F..Cl)	Topological Distances Descriptors
+F3(F..Cl)	Topological Distances Descriptors
+B3(F..Br)	Topological Distances Descriptors
+F3(F..Br)	Topological Distances Descriptors
+B3(F..I)	Topological Distances Descriptors
+F3(F..I)	Topological Distances Descriptors
+B3(Cl..Cl)	Topological Distances Descriptors
+F3(Cl..Cl)	Topological Distances Descriptors
+B3(Cl..Br)	Topological Distances Descriptors
+F3(Cl..Br)	Topological Distances Descriptors
+B3(Cl..I)	Topological Distances Descriptors
+F3(Cl..I)	Topological Distances Descriptors
+B3(Br..Br)	Topological Distances Descriptors
+F3(Br..Br)	Topological Distances Descriptors
+B3(Br..I)	Topological Distances Descriptors
+F3(Br..I)	Topological Distances Descriptors
+B3(I..I)	Topological Distances Descriptors
+F3(I..I)	Topological Distances Descriptors
+B4(C..C)	Topological Distances Descriptors
+F4(C..C)	Topological Distances Descriptors
+B4(C..N)	Topological Distances Descriptors
+F4(C..N)	Topological Distances Descriptors
+B4(C..O)	Topological Distances Descriptors
+F4(C..O)	Topological Distances Descriptors
+B4(C..S)	Topological Distances Descriptors
+F4(C..S)	Topological Distances Descriptors
+B4(C..P)	Topological Distances Descriptors
+F4(C..P)	Topological Distances Descriptors
+B4(C..F)	Topological Distances Descriptors
+F4(C..F)	Topological Distances Descriptors
+B4(C..Cl)	Topological Distances Descriptors
+F4(C..Cl)	Topological Distances Descriptors
+B4(C..Br)	Topological Distances Descriptors
+F4(C..Br)	Topological Distances Descriptors
+B4(C..I)	Topological Distances Descriptors
+F4(C..I)	Topological Distances Descriptors
+B4(N..N)	Topological Distances Descriptors
+F4(N..N)	Topological Distances Descriptors
+B4(N..O)	Topological Distances Descriptors
+F4(N..O)	Topological Distances Descriptors
+B4(N..S)	Topological Distances Descriptors
+F4(N..S)	Topological Distances Descriptors
+B4(N..P)	Topological Distances Descriptors
+F4(N..P)	Topological Distances Descriptors
+B4(N..F)	Topological Distances Descriptors
+F4(N..F)	Topological Distances Descriptors
+B4(N..Cl)	Topological Distances Descriptors
+F4(N..Cl)	Topological Distances Descriptors
+B4(N..Br)	Topological Distances Descriptors
+F4(N..Br)	Topological Distances Descriptors
+B4(N..I)	Topological Distances Descriptors
+F4(N..I)	Topological Distances Descriptors
+B4(O..O)	Topological Distances Descriptors
+F4(O..O)	Topological Distances Descriptors
+B4(O..S)	Topological Distances Descriptors
+F4(O..S)	Topological Distances Descriptors
+B4(O..P)	Topological Distances Descriptors
+F4(O..P)	Topological Distances Descriptors
+B4(O..F)	Topological Distances Descriptors
+F4(O..F)	Topological Distances Descriptors
+B4(O..Cl)	Topological Distances Descriptors
+F4(O..Cl)	Topological Distances Descriptors
+B4(O..Br)	Topological Distances Descriptors
+F4(O..Br)	Topological Distances Descriptors
+B4(O..I)	Topological Distances Descriptors
+F4(O..I)	Topological Distances Descriptors
+B4(S..S)	Topological Distances Descriptors
+F4(S..S)	Topological Distances Descriptors
+B4(S..P)	Topological Distances Descriptors
+F4(S..P)	Topological Distances Descriptors
+B4(S..F)	Topological Distances Descriptors
+F4(S..F)	Topological Distances Descriptors
+B4(S..Cl)	Topological Distances Descriptors
+F4(S..Cl)	Topological Distances Descriptors
+B4(S..Br)	Topological Distances Descriptors
+F4(S..Br)	Topological Distances Descriptors
+B4(S..I)	Topological Distances Descriptors
+F4(S..I)	Topological Distances Descriptors
+B4(P..P)	Topological Distances Descriptors
+F4(P..P)	Topological Distances Descriptors
+B4(P..F)	Topological Distances Descriptors
+F4(P..F)	Topological Distances Descriptors
+B4(P..Cl)	Topological Distances Descriptors
+F4(P..Cl)	Topological Distances Descriptors
+B4(P..Br)	Topological Distances Descriptors
+F4(P..Br)	Topological Distances Descriptors
+B4(P..I)	Topological Distances Descriptors
+F4(P..I)	Topological Distances Descriptors
+B4(F..F)	Topological Distances Descriptors
+F4(F..F)	Topological Distances Descriptors
+B4(F..Cl)	Topological Distances Descriptors
+F4(F..Cl)	Topological Distances Descriptors
+B4(F..Br)	Topological Distances Descriptors
+F4(F..Br)	Topological Distances Descriptors
+B4(F..I)	Topological Distances Descriptors
+F4(F..I)	Topological Distances Descriptors
+B4(Cl..Cl)	Topological Distances Descriptors
+F4(Cl..Cl)	Topological Distances Descriptors
+B4(Cl..Br)	Topological Distances Descriptors
+F4(Cl..Br)	Topological Distances Descriptors
+B4(Cl..I)	Topological Distances Descriptors
+F4(Cl..I)	Topological Distances Descriptors
+B4(Br..Br)	Topological Distances Descriptors
+F4(Br..Br)	Topological Distances Descriptors
+B4(Br..I)	Topological Distances Descriptors
+F4(Br..I)	Topological Distances Descriptors
+B4(I..I)	Topological Distances Descriptors
+F4(I..I)	Topological Distances Descriptors
+B5(C..C)	Topological Distances Descriptors
+F5(C..C)	Topological Distances Descriptors
+B5(C..N)	Topological Distances Descriptors
+F5(C..N)	Topological Distances Descriptors
+B5(C..O)	Topological Distances Descriptors
+F5(C..O)	Topological Distances Descriptors
+B5(C..S)	Topological Distances Descriptors
+F5(C..S)	Topological Distances Descriptors
+B5(C..P)	Topological Distances Descriptors
+F5(C..P)	Topological Distances Descriptors
+B5(C..F)	Topological Distances Descriptors
+F5(C..F)	Topological Distances Descriptors
+B5(C..Cl)	Topological Distances Descriptors
+F5(C..Cl)	Topological Distances Descriptors
+B5(C..Br)	Topological Distances Descriptors
+F5(C..Br)	Topological Distances Descriptors
+B5(C..I)	Topological Distances Descriptors
+F5(C..I)	Topological Distances Descriptors
+B5(N..N)	Topological Distances Descriptors
+F5(N..N)	Topological Distances Descriptors
+B5(N..O)	Topological Distances Descriptors
+F5(N..O)	Topological Distances Descriptors
+B5(N..S)	Topological Distances Descriptors
+F5(N..S)	Topological Distances Descriptors
+B5(N..P)	Topological Distances Descriptors
+F5(N..P)	Topological Distances Descriptors
+B5(N..F)	Topological Distances Descriptors
+F5(N..F)	Topological Distances Descriptors
+B5(N..Cl)	Topological Distances Descriptors
+F5(N..Cl)	Topological Distances Descriptors
+B5(N..Br)	Topological Distances Descriptors
+F5(N..Br)	Topological Distances Descriptors
+B5(N..I)	Topological Distances Descriptors
+F5(N..I)	Topological Distances Descriptors
+B5(O..O)	Topological Distances Descriptors
+F5(O..O)	Topological Distances Descriptors
+B5(O..S)	Topological Distances Descriptors
+F5(O..S)	Topological Distances Descriptors
+B5(O..P)	Topological Distances Descriptors
+F5(O..P)	Topological Distances Descriptors
+B5(O..F)	Topological Distances Descriptors
+F5(O..F)	Topological Distances Descriptors
+B5(O..Cl)	Topological Distances Descriptors
+F5(O..Cl)	Topological Distances Descriptors
+B5(O..Br)	Topological Distances Descriptors
+F5(O..Br)	Topological Distances Descriptors
+B5(O..I)	Topological Distances Descriptors
+F5(O..I)	Topological Distances Descriptors
+B5(S..S)	Topological Distances Descriptors
+F5(S..S)	Topological Distances Descriptors
+B5(S..P)	Topological Distances Descriptors
+F5(S..P)	Topological Distances Descriptors
+B5(S..F)	Topological Distances Descriptors
+F5(S..F)	Topological Distances Descriptors
+B5(S..Cl)	Topological Distances Descriptors
+F5(S..Cl)	Topological Distances Descriptors
+B5(S..Br)	Topological Distances Descriptors
+F5(S..Br)	Topological Distances Descriptors
+B5(S..I)	Topological Distances Descriptors
+F5(S..I)	Topological Distances Descriptors
+B5(P..P)	Topological Distances Descriptors
+F5(P..P)	Topological Distances Descriptors
+B5(P..F)	Topological Distances Descriptors
+F5(P..F)	Topological Distances Descriptors
+B5(P..Cl)	Topological Distances Descriptors
+F5(P..Cl)	Topological Distances Descriptors
+B5(P..Br)	Topological Distances Descriptors
+F5(P..Br)	Topological Distances Descriptors
+B5(P..I)	Topological Distances Descriptors
+F5(P..I)	Topological Distances Descriptors
+B5(F..F)	Topological Distances Descriptors
+F5(F..F)	Topological Distances Descriptors
+B5(F..Cl)	Topological Distances Descriptors
+F5(F..Cl)	Topological Distances Descriptors
+B5(F..Br)	Topological Distances Descriptors
+F5(F..Br)	Topological Distances Descriptors
+B5(F..I)	Topological Distances Descriptors
+F5(F..I)	Topological Distances Descriptors
+B5(Cl..Cl)	Topological Distances Descriptors
+F5(Cl..Cl)	Topological Distances Descriptors
+B5(Cl..Br)	Topological Distances Descriptors
+F5(Cl..Br)	Topological Distances Descriptors
+B5(Cl..I)	Topological Distances Descriptors
+F5(Cl..I)	Topological Distances Descriptors
+B5(Br..Br)	Topological Distances Descriptors
+F5(Br..Br)	Topological Distances Descriptors
+B5(Br..I)	Topological Distances Descriptors
+F5(Br..I)	Topological Distances Descriptors
+B5(I..I)	Topological Distances Descriptors
+F5(I..I)	Topological Distances Descriptors
+B6(C..C)	Topological Distances Descriptors
+F6(C..C)	Topological Distances Descriptors
+B6(C..N)	Topological Distances Descriptors
+F6(C..N)	Topological Distances Descriptors
+B6(C..O)	Topological Distances Descriptors
+F6(C..O)	Topological Distances Descriptors
+B6(C..S)	Topological Distances Descriptors
+F6(C..S)	Topological Distances Descriptors
+B6(C..P)	Topological Distances Descriptors
+F6(C..P)	Topological Distances Descriptors
+B6(C..F)	Topological Distances Descriptors
+F6(C..F)	Topological Distances Descriptors
+B6(C..Cl)	Topological Distances Descriptors
+F6(C..Cl)	Topological Distances Descriptors
+B6(C..Br)	Topological Distances Descriptors
+F6(C..Br)	Topological Distances Descriptors
+B6(C..I)	Topological Distances Descriptors
+F6(C..I)	Topological Distances Descriptors
+B6(N..N)	Topological Distances Descriptors
+F6(N..N)	Topological Distances Descriptors
+B6(N..O)	Topological Distances Descriptors
+F6(N..O)	Topological Distances Descriptors
+B6(N..S)	Topological Distances Descriptors
+F6(N..S)	Topological Distances Descriptors
+B6(N..P)	Topological Distances Descriptors
+F6(N..P)	Topological Distances Descriptors
+B6(N..F)	Topological Distances Descriptors
+F6(N..F)	Topological Distances Descriptors
+B6(N..Cl)	Topological Distances Descriptors
+F6(N..Cl)	Topological Distances Descriptors
+B6(N..Br)	Topological Distances Descriptors
+F6(N..Br)	Topological Distances Descriptors
+B6(N..I)	Topological Distances Descriptors
+F6(N..I)	Topological Distances Descriptors
+B6(O..O)	Topological Distances Descriptors
+F6(O..O)	Topological Distances Descriptors
+B6(O..S)	Topological Distances Descriptors
+F6(O..S)	Topological Distances Descriptors
+B6(O..P)	Topological Distances Descriptors
+F6(O..P)	Topological Distances Descriptors
+B6(O..F)	Topological Distances Descriptors
+F6(O..F)	Topological Distances Descriptors
+B6(O..Cl)	Topological Distances Descriptors
+F6(O..Cl)	Topological Distances Descriptors
+B6(O..Br)	Topological Distances Descriptors
+F6(O..Br)	Topological Distances Descriptors
+B6(O..I)	Topological Distances Descriptors
+F6(O..I)	Topological Distances Descriptors
+B6(S..S)	Topological Distances Descriptors
+F6(S..S)	Topological Distances Descriptors
+B6(S..P)	Topological Distances Descriptors
+F6(S..P)	Topological Distances Descriptors
+B6(S..F)	Topological Distances Descriptors
+F6(S..F)	Topological Distances Descriptors
+B6(S..Cl)	Topological Distances Descriptors
+F6(S..Cl)	Topological Distances Descriptors
+B6(S..Br)	Topological Distances Descriptors
+F6(S..Br)	Topological Distances Descriptors
+B6(S..I)	Topological Distances Descriptors
+F6(S..I)	Topological Distances Descriptors
+B6(P..P)	Topological Distances Descriptors
+F6(P..P)	Topological Distances Descriptors
+B6(P..F)	Topological Distances Descriptors
+F6(P..F)	Topological Distances Descriptors
+B6(P..Cl)	Topological Distances Descriptors
+F6(P..Cl)	Topological Distances Descriptors
+B6(P..Br)	Topological Distances Descriptors
+F6(P..Br)	Topological Distances Descriptors
+B6(P..I)	Topological Distances Descriptors
+F6(P..I)	Topological Distances Descriptors
+B6(F..F)	Topological Distances Descriptors
+F6(F..F)	Topological Distances Descriptors
+B6(F..Cl)	Topological Distances Descriptors
+F6(F..Cl)	Topological Distances Descriptors
+B6(F..Br)	Topological Distances Descriptors
+F6(F..Br)	Topological Distances Descriptors
+B6(F..I)	Topological Distances Descriptors
+F6(F..I)	Topological Distances Descriptors
+B6(Cl..Cl)	Topological Distances Descriptors
+F6(Cl..Cl)	Topological Distances Descriptors
+B6(Cl..Br)	Topological Distances Descriptors
+F6(Cl..Br)	Topological Distances Descriptors
+B6(Cl..I)	Topological Distances Descriptors
+F6(Cl..I)	Topological Distances Descriptors
+B6(Br..Br)	Topological Distances Descriptors
+F6(Br..Br)	Topological Distances Descriptors
+B6(Br..I)	Topological Distances Descriptors
+F6(Br..I)	Topological Distances Descriptors
+B6(I..I)	Topological Distances Descriptors
+F6(I..I)	Topological Distances Descriptors
+B7(C..C)	Topological Distances Descriptors
+F7(C..C)	Topological Distances Descriptors
+B7(C..N)	Topological Distances Descriptors
+F7(C..N)	Topological Distances Descriptors
+B7(C..O)	Topological Distances Descriptors
+F7(C..O)	Topological Distances Descriptors
+B7(C..S)	Topological Distances Descriptors
+F7(C..S)	Topological Distances Descriptors
+B7(C..P)	Topological Distances Descriptors
+F7(C..P)	Topological Distances Descriptors
+B7(C..F)	Topological Distances Descriptors
+F7(C..F)	Topological Distances Descriptors
+B7(C..Cl)	Topological Distances Descriptors
+F7(C..Cl)	Topological Distances Descriptors
+B7(C..Br)	Topological Distances Descriptors
+F7(C..Br)	Topological Distances Descriptors
+B7(C..I)	Topological Distances Descriptors
+F7(C..I)	Topological Distances Descriptors
+B7(N..N)	Topological Distances Descriptors
+F7(N..N)	Topological Distances Descriptors
+B7(N..O)	Topological Distances Descriptors
+F7(N..O)	Topological Distances Descriptors
+B7(N..S)	Topological Distances Descriptors
+F7(N..S)	Topological Distances Descriptors
+B7(N..P)	Topological Distances Descriptors
+F7(N..P)	Topological Distances Descriptors
+B7(N..F)	Topological Distances Descriptors
+F7(N..F)	Topological Distances Descriptors
+B7(N..Cl)	Topological Distances Descriptors
+F7(N..Cl)	Topological Distances Descriptors
+B7(N..Br)	Topological Distances Descriptors
+F7(N..Br)	Topological Distances Descriptors
+B7(N..I)	Topological Distances Descriptors
+F7(N..I)	Topological Distances Descriptors
+B7(O..O)	Topological Distances Descriptors
+F7(O..O)	Topological Distances Descriptors
+B7(O..S)	Topological Distances Descriptors
+F7(O..S)	Topological Distances Descriptors
+B7(O..P)	Topological Distances Descriptors
+F7(O..P)	Topological Distances Descriptors
+B7(O..F)	Topological Distances Descriptors
+F7(O..F)	Topological Distances Descriptors
+B7(O..Cl)	Topological Distances Descriptors
+F7(O..Cl)	Topological Distances Descriptors
+B7(O..Br)	Topological Distances Descriptors
+F7(O..Br)	Topological Distances Descriptors
+B7(O..I)	Topological Distances Descriptors
+F7(O..I)	Topological Distances Descriptors
+B7(S..S)	Topological Distances Descriptors
+F7(S..S)	Topological Distances Descriptors
+B7(S..P)	Topological Distances Descriptors
+F7(S..P)	Topological Distances Descriptors
+B7(S..F)	Topological Distances Descriptors
+F7(S..F)	Topological Distances Descriptors
+B7(S..Cl)	Topological Distances Descriptors
+F7(S..Cl)	Topological Distances Descriptors
+B7(S..Br)	Topological Distances Descriptors
+F7(S..Br)	Topological Distances Descriptors
+B7(S..I)	Topological Distances Descriptors
+F7(S..I)	Topological Distances Descriptors
+B7(P..P)	Topological Distances Descriptors
+F7(P..P)	Topological Distances Descriptors
+B7(P..F)	Topological Distances Descriptors
+F7(P..F)	Topological Distances Descriptors
+B7(P..Cl)	Topological Distances Descriptors
+F7(P..Cl)	Topological Distances Descriptors
+B7(P..Br)	Topological Distances Descriptors
+F7(P..Br)	Topological Distances Descriptors
+B7(P..I)	Topological Distances Descriptors
+F7(P..I)	Topological Distances Descriptors
+B7(F..F)	Topological Distances Descriptors
+F7(F..F)	Topological Distances Descriptors
+B7(F..Cl)	Topological Distances Descriptors
+F7(F..Cl)	Topological Distances Descriptors
+B7(F..Br)	Topological Distances Descriptors
+F7(F..Br)	Topological Distances Descriptors
+B7(F..I)	Topological Distances Descriptors
+F7(F..I)	Topological Distances Descriptors
+B7(Cl..Cl)	Topological Distances Descriptors
+F7(Cl..Cl)	Topological Distances Descriptors
+B7(Cl..Br)	Topological Distances Descriptors
+F7(Cl..Br)	Topological Distances Descriptors
+B7(Cl..I)	Topological Distances Descriptors
+F7(Cl..I)	Topological Distances Descriptors
+B7(Br..Br)	Topological Distances Descriptors
+F7(Br..Br)	Topological Distances Descriptors
+B7(Br..I)	Topological Distances Descriptors
+F7(Br..I)	Topological Distances Descriptors
+B7(I..I)	Topological Distances Descriptors
+F7(I..I)	Topological Distances Descriptors
+B8(C..C)	Topological Distances Descriptors
+F8(C..C)	Topological Distances Descriptors
+B8(C..N)	Topological Distances Descriptors
+F8(C..N)	Topological Distances Descriptors
+B8(C..O)	Topological Distances Descriptors
+F8(C..O)	Topological Distances Descriptors
+B8(C..S)	Topological Distances Descriptors
+F8(C..S)	Topological Distances Descriptors
+B8(C..P)	Topological Distances Descriptors
+F8(C..P)	Topological Distances Descriptors
+B8(C..F)	Topological Distances Descriptors
+F8(C..F)	Topological Distances Descriptors
+B8(C..Cl)	Topological Distances Descriptors
+F8(C..Cl)	Topological Distances Descriptors
+B8(C..Br)	Topological Distances Descriptors
+F8(C..Br)	Topological Distances Descriptors
+B8(C..I)	Topological Distances Descriptors
+F8(C..I)	Topological Distances Descriptors
+B8(N..N)	Topological Distances Descriptors
+F8(N..N)	Topological Distances Descriptors
+B8(N..O)	Topological Distances Descriptors
+F8(N..O)	Topological Distances Descriptors
+B8(N..S)	Topological Distances Descriptors
+F8(N..S)	Topological Distances Descriptors
+B8(N..P)	Topological Distances Descriptors
+F8(N..P)	Topological Distances Descriptors
+B8(N..F)	Topological Distances Descriptors
+F8(N..F)	Topological Distances Descriptors
+B8(N..Cl)	Topological Distances Descriptors
+F8(N..Cl)	Topological Distances Descriptors
+B8(N..Br)	Topological Distances Descriptors
+F8(N..Br)	Topological Distances Descriptors
+B8(N..I)	Topological Distances Descriptors
+F8(N..I)	Topological Distances Descriptors
+B8(O..O)	Topological Distances Descriptors
+F8(O..O)	Topological Distances Descriptors
+B8(O..S)	Topological Distances Descriptors
+F8(O..S)	Topological Distances Descriptors
+B8(O..P)	Topological Distances Descriptors
+F8(O..P)	Topological Distances Descriptors
+B8(O..F)	Topological Distances Descriptors
+F8(O..F)	Topological Distances Descriptors
+B8(O..Cl)	Topological Distances Descriptors
+F8(O..Cl)	Topological Distances Descriptors
+B8(O..Br)	Topological Distances Descriptors
+F8(O..Br)	Topological Distances Descriptors
+B8(O..I)	Topological Distances Descriptors
+F8(O..I)	Topological Distances Descriptors
+B8(S..S)	Topological Distances Descriptors
+F8(S..S)	Topological Distances Descriptors
+B8(S..P)	Topological Distances Descriptors
+F8(S..P)	Topological Distances Descriptors
+B8(S..F)	Topological Distances Descriptors
+F8(S..F)	Topological Distances Descriptors
+B8(S..Cl)	Topological Distances Descriptors
+F8(S..Cl)	Topological Distances Descriptors
+B8(S..Br)	Topological Distances Descriptors
+F8(S..Br)	Topological Distances Descriptors
+B8(S..I)	Topological Distances Descriptors
+F8(S..I)	Topological Distances Descriptors
+B8(P..P)	Topological Distances Descriptors
+F8(P..P)	Topological Distances Descriptors
+B8(P..F)	Topological Distances Descriptors
+F8(P..F)	Topological Distances Descriptors
+B8(P..Cl)	Topological Distances Descriptors
+F8(P..Cl)	Topological Distances Descriptors
+B8(P..Br)	Topological Distances Descriptors
+F8(P..Br)	Topological Distances Descriptors
+B8(P..I)	Topological Distances Descriptors
+F8(P..I)	Topological Distances Descriptors
+B8(F..F)	Topological Distances Descriptors
+F8(F..F)	Topological Distances Descriptors
+B8(F..Cl)	Topological Distances Descriptors
+F8(F..Cl)	Topological Distances Descriptors
+B8(F..Br)	Topological Distances Descriptors
+F8(F..Br)	Topological Distances Descriptors
+B8(F..I)	Topological Distances Descriptors
+F8(F..I)	Topological Distances Descriptors
+B8(Cl..Cl)	Topological Distances Descriptors
+F8(Cl..Cl)	Topological Distances Descriptors
+B8(Cl..Br)	Topological Distances Descriptors
+F8(Cl..Br)	Topological Distances Descriptors
+B8(Cl..I)	Topological Distances Descriptors
+F8(Cl..I)	Topological Distances Descriptors
+B8(Br..Br)	Topological Distances Descriptors
+F8(Br..Br)	Topological Distances Descriptors
+B8(Br..I)	Topological Distances Descriptors
+F8(Br..I)	Topological Distances Descriptors
+B8(I..I)	Topological Distances Descriptors
+F8(I..I)	Topological Distances Descriptors
+B9(C..C)	Topological Distances Descriptors
+F9(C..C)	Topological Distances Descriptors
+B9(C..N)	Topological Distances Descriptors
+F9(C..N)	Topological Distances Descriptors
+B9(C..O)	Topological Distances Descriptors
+F9(C..O)	Topological Distances Descriptors
+B9(C..S)	Topological Distances Descriptors
+F9(C..S)	Topological Distances Descriptors
+B9(C..P)	Topological Distances Descriptors
+F9(C..P)	Topological Distances Descriptors
+B9(C..F)	Topological Distances Descriptors
+F9(C..F)	Topological Distances Descriptors
+B9(C..Cl)	Topological Distances Descriptors
+F9(C..Cl)	Topological Distances Descriptors
+B9(C..Br)	Topological Distances Descriptors
+F9(C..Br)	Topological Distances Descriptors
+B9(C..I)	Topological Distances Descriptors
+F9(C..I)	Topological Distances Descriptors
+B9(N..N)	Topological Distances Descriptors
+F9(N..N)	Topological Distances Descriptors
+B9(N..O)	Topological Distances Descriptors
+F9(N..O)	Topological Distances Descriptors
+B9(N..S)	Topological Distances Descriptors
+F9(N..S)	Topological Distances Descriptors
+B9(N..P)	Topological Distances Descriptors
+F9(N..P)	Topological Distances Descriptors
+B9(N..F)	Topological Distances Descriptors
+F9(N..F)	Topological Distances Descriptors
+B9(N..Cl)	Topological Distances Descriptors
+F9(N..Cl)	Topological Distances Descriptors
+B9(N..Br)	Topological Distances Descriptors
+F9(N..Br)	Topological Distances Descriptors
+B9(N..I)	Topological Distances Descriptors
+F9(N..I)	Topological Distances Descriptors
+B9(O..O)	Topological Distances Descriptors
+F9(O..O)	Topological Distances Descriptors
+B9(O..S)	Topological Distances Descriptors
+F9(O..S)	Topological Distances Descriptors
+B9(O..P)	Topological Distances Descriptors
+F9(O..P)	Topological Distances Descriptors
+B9(O..F)	Topological Distances Descriptors
+F9(O..F)	Topological Distances Descriptors
+B9(O..Cl)	Topological Distances Descriptors
+F9(O..Cl)	Topological Distances Descriptors
+B9(O..Br)	Topological Distances Descriptors
+F9(O..Br)	Topological Distances Descriptors
+B9(O..I)	Topological Distances Descriptors
+F9(O..I)	Topological Distances Descriptors
+B9(S..S)	Topological Distances Descriptors
+F9(S..S)	Topological Distances Descriptors
+B9(S..P)	Topological Distances Descriptors
+F9(S..P)	Topological Distances Descriptors
+B9(S..F)	Topological Distances Descriptors
+F9(S..F)	Topological Distances Descriptors
+B9(S..Cl)	Topological Distances Descriptors
+F9(S..Cl)	Topological Distances Descriptors
+B9(S..Br)	Topological Distances Descriptors
+F9(S..Br)	Topological Distances Descriptors
+B9(S..I)	Topological Distances Descriptors
+F9(S..I)	Topological Distances Descriptors
+B9(P..P)	Topological Distances Descriptors
+F9(P..P)	Topological Distances Descriptors
+B9(P..F)	Topological Distances Descriptors
+F9(P..F)	Topological Distances Descriptors
+B9(P..Cl)	Topological Distances Descriptors
+F9(P..Cl)	Topological Distances Descriptors
+B9(P..Br)	Topological Distances Descriptors
+F9(P..Br)	Topological Distances Descriptors
+B9(P..I)	Topological Distances Descriptors
+F9(P..I)	Topological Distances Descriptors
+B9(F..F)	Topological Distances Descriptors
+F9(F..F)	Topological Distances Descriptors
+B9(F..Cl)	Topological Distances Descriptors
+F9(F..Cl)	Topological Distances Descriptors
+B9(F..Br)	Topological Distances Descriptors
+F9(F..Br)	Topological Distances Descriptors
+B9(F..I)	Topological Distances Descriptors
+F9(F..I)	Topological Distances Descriptors
+B9(Cl..Cl)	Topological Distances Descriptors
+F9(Cl..Cl)	Topological Distances Descriptors
+B9(Cl..Br)	Topological Distances Descriptors
+F9(Cl..Br)	Topological Distances Descriptors
+B9(Cl..I)	Topological Distances Descriptors
+F9(Cl..I)	Topological Distances Descriptors
+B9(Br..Br)	Topological Distances Descriptors
+F9(Br..Br)	Topological Distances Descriptors
+B9(Br..I)	Topological Distances Descriptors
+F9(Br..I)	Topological Distances Descriptors
+B9(I..I)	Topological Distances Descriptors
+F9(I..I)	Topological Distances Descriptors
+B10(C..C)	Topological Distances Descriptors
+F10(C..C)	Topological Distances Descriptors
+B10(C..N)	Topological Distances Descriptors
+F10(C..N)	Topological Distances Descriptors
+B10(C..O)	Topological Distances Descriptors
+F10(C..O)	Topological Distances Descriptors
+B10(C..S)	Topological Distances Descriptors
+F10(C..S)	Topological Distances Descriptors
+B10(C..P)	Topological Distances Descriptors
+F10(C..P)	Topological Distances Descriptors
+B10(C..F)	Topological Distances Descriptors
+F10(C..F)	Topological Distances Descriptors
+B10(C..Cl)	Topological Distances Descriptors
+F10(C..Cl)	Topological Distances Descriptors
+B10(C..Br)	Topological Distances Descriptors
+F10(C..Br)	Topological Distances Descriptors
+B10(C..I)	Topological Distances Descriptors
+F10(C..I)	Topological Distances Descriptors
+B10(N..N)	Topological Distances Descriptors
+F10(N..N)	Topological Distances Descriptors
+B10(N..O)	Topological Distances Descriptors
+F10(N..O)	Topological Distances Descriptors
+B10(N..S)	Topological Distances Descriptors
+F10(N..S)	Topological Distances Descriptors
+B10(N..P)	Topological Distances Descriptors
+F10(N..P)	Topological Distances Descriptors
+B10(N..F)	Topological Distances Descriptors
+F10(N..F)	Topological Distances Descriptors
+B10(N..Cl)	Topological Distances Descriptors
+F10(N..Cl)	Topological Distances Descriptors
+B10(N..Br)	Topological Distances Descriptors
+F10(N..Br)	Topological Distances Descriptors
+B10(N..I)	Topological Distances Descriptors
+F10(N..I)	Topological Distances Descriptors
+B10(O..O)	Topological Distances Descriptors
+F10(O..O)	Topological Distances Descriptors
+B10(O..S)	Topological Distances Descriptors
+F10(O..S)	Topological Distances Descriptors
+B10(O..P)	Topological Distances Descriptors
+F10(O..P)	Topological Distances Descriptors
+B10(O..F)	Topological Distances Descriptors
+F10(O..F)	Topological Distances Descriptors
+B10(O..Cl)	Topological Distances Descriptors
+F10(O..Cl)	Topological Distances Descriptors
+B10(O..Br)	Topological Distances Descriptors
+F10(O..Br)	Topological Distances Descriptors
+B10(O..I)	Topological Distances Descriptors
+F10(O..I)	Topological Distances Descriptors
+B10(S..S)	Topological Distances Descriptors
+F10(S..S)	Topological Distances Descriptors
+B10(S..P)	Topological Distances Descriptors
+F10(S..P)	Topological Distances Descriptors
+B10(S..F)	Topological Distances Descriptors
+F10(S..F)	Topological Distances Descriptors
+B10(S..Cl)	Topological Distances Descriptors
+F10(S..Cl)	Topological Distances Descriptors
+B10(S..Br)	Topological Distances Descriptors
+F10(S..Br)	Topological Distances Descriptors
+B10(S..I)	Topological Distances Descriptors
+F10(S..I)	Topological Distances Descriptors
+B10(P..P)	Topological Distances Descriptors
+F10(P..P)	Topological Distances Descriptors
+B10(P..F)	Topological Distances Descriptors
+F10(P..F)	Topological Distances Descriptors
+B10(P..Cl)	Topological Distances Descriptors
+F10(P..Cl)	Topological Distances Descriptors
+B10(P..Br)	Topological Distances Descriptors
+F10(P..Br)	Topological Distances Descriptors
+B10(P..I)	Topological Distances Descriptors
+F10(P..I)	Topological Distances Descriptors
+B10(F..F)	Topological Distances Descriptors
+F10(F..F)	Topological Distances Descriptors
+B10(F..Cl)	Topological Distances Descriptors
+F10(F..Cl)	Topological Distances Descriptors
+B10(F..Br)	Topological Distances Descriptors
+F10(F..Br)	Topological Distances Descriptors
+B10(F..I)	Topological Distances Descriptors
+F10(F..I)	Topological Distances Descriptors
+B10(Cl..Cl)	Topological Distances Descriptors
+F10(Cl..Cl)	Topological Distances Descriptors
+B10(Cl..Br)	Topological Distances Descriptors
+F10(Cl..Br)	Topological Distances Descriptors
+B10(Cl..I)	Topological Distances Descriptors
+F10(Cl..I)	Topological Distances Descriptors
+B10(Br..Br)	Topological Distances Descriptors
+F10(Br..Br)	Topological Distances Descriptors
+B10(Br..I)	Topological Distances Descriptors
+F10(Br..I)	Topological Distances Descriptors
+B10(I..I)	Topological Distances Descriptors
+F10(I..I)	Topological Distances Descriptors
+GGI1	Topological Charge Descriptors
+JGI1	Topological Charge Descriptors
+GGI2	Topological Charge Descriptors
+JGI2	Topological Charge Descriptors
+GGI3	Topological Charge Descriptors
+JGI3	Topological Charge Descriptors
+GGI4	Topological Charge Descriptors
+JGI4	Topological Charge Descriptors
+GGI5	Topological Charge Descriptors
+JGI5	Topological Charge Descriptors
+GGI6	Topological Charge Descriptors
+JGI6	Topological Charge Descriptors
+GGI7	Topological Charge Descriptors
+JGI7	Topological Charge Descriptors
+GGI8	Topological Charge Descriptors
+JGI8	Topological Charge Descriptors
+MAXDN	Topological E-State Descriptors
+MAXDP	Topological E-State Descriptors
